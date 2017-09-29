@@ -1,0 +1,21 @@
+{
+  "name": "morevue2-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Standup <stanislas.duprey@gmail.com> (standupweb.net)",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "couch-slouch": "^0.1.0",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12",
+    "sendgrid": "^5.2.3"
+  }
+}
