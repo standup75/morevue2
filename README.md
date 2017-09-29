@@ -20,7 +20,7 @@ This is an elegant solution for an app that requires to record and synchronize p
 
 ## Build Setup
 
-1/ Download and Install [http://couchdb.apache.org/](couchDB), [https://nodejs.org/en/download/](node), [https://www.mongodb.com/download-center](mongoDB)
+1/ Download and Install [couchDB](http://couchdb.apache.org/), [node](https://nodejs.org/en/download/), [mongoDB](https://www.mongodb.com/download-center)
 
 2/ Start mongoDB and couchDB
 
