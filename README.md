@@ -1,6 +1,7 @@
 ## morevue2
 
 > Offline first boilerplate
+
 > Technologies: Mongo, Node, CouchDB, Vue
 
 The mongoDB instance only stores users. The node app manages user, and creates a database in couchDB per user. This doesn't even create a session on the server, it just checks the password and returns the information needed for the user to connect to his database in couchDB. PouchDB then handles the rest and synchronizes with the couchDB database.
